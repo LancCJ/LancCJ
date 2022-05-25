@@ -1,4 +1,4 @@
-### Hi, I am a developer 👋My Name is LancCJ(陈健)
+### Hi, I am a developer 👋My Name is LancCJ
 ```
                              \\\\\\\
                             \\\\\\\\\\\\
@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on Apisix
+🔭 I’m currently working on using apisix framework to make gateway product
