@@ -35,4 +35,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on Apisix
-Loading... some awesome ideas to go here, check back again in some time
